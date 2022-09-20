@@ -1,3 +1,14 @@
+# 男声合唱团微信公众号后端
+
+1. 此后端基于杭电助手后端同一框架的基础上开发而来
+2. 这个开发者很懒,天天开摆
+
+
+
+
+
+----------------------------
+_以下为原框架README.md_
 # wechat-template
 
 杭电助手目前正在使用的微信公众号后端速冲框架，便于小型业务的敏捷开发，是一个多模块组合设计的微信公众号后端程序。
@@ -12,7 +23,7 @@
 
 ## 快速开始
 
-1. 项目配置：按照示例配置文件 [application.example.yaml](./application.example.yaml) 新建配置文件 `application.yaml` 。（[完整环境配置文档](./doc/developEnvDebug.md))
+1. 项目配置：按照示例配置文件 [application.example.yaml](./application.yaml) 新建配置文件 `application.yaml` 。（[完整环境配置文档](./doc/developEnvDebug.md))
 2. 运行本框架 
 3. 微信端配置：前往微信公众号网页填写。其中，服务器地址(URL)为「你配置的地址 + `/serve`」，如：
     > http://xxx.xxxx.com/serve
