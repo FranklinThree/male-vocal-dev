@@ -1,0 +1,7 @@
+mysql:
+  username: root
+  password: 123456
+  host: m1.franklin3.top
+  port: 3306
+  Dbname: test_db
+  timeout: 10s
